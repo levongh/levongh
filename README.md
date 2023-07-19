@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 ---
 
 
-![github stats for current year](https://github-readme-stats.vercel.app/api?username=levongh&count_private=true&show_icons=true&theme=tokyonight)
-
 ![github stats from the starting point](https://github-readme-stats.vercel.app/api?username=levongh&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levongh&count_private=true&layout=compact&langs_count=10&theme=tokyonight)
